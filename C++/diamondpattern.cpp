@@ -1,3 +1,7 @@
+// Github username: ayushi-2501
+// Aim: added a diamond pattern in c++
+// Date: 04-10-2022
+
 #include<iostream>
 using namespace std;
 int main()
